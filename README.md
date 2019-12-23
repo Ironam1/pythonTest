@@ -1,0 +1,1 @@
+This was my first attempt at programming in Python. I was able to complete all challenges and I finished just around the three hour mark. Please fell free to ask me any questions or to elaborate on any of my thinking. Thank you.

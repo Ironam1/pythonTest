@@ -6,8 +6,8 @@ def reverse(s):
 
 s = "helloworld"
 
-print ("the original string is : ",end="")
+print ("the original string is : ")
 print (s)
 
-print ("the reversed string(using loops) is : ",end="")
+print ("the reversed string(using loops) is : ")
 print (reverse(s))

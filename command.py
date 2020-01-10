@@ -7,12 +7,12 @@ print("sys.argv is", sys.argv[1])
 
 def reverseS(arg):
     
-    if sys.argv[2] == "-r":
+    if sys.argv[1] == "-r":
         str = ""
         for i in arg:
             str = i + str
 
-    elif sys.argv[2] == "-w":
+    elif sys.argv[1] == "-w":
         str = arg.split()
         str.reverse()
         # print(word)
